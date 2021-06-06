@@ -1,0 +1,11 @@
+.dnd5e.sheet.actor .inventory-list .inventory-header .item-controls a.item-create {
+    flex: 0 0 68px;
+  }
+.dnd5e.sheet.actor .inventory-list .item-controls {
+  flex: 0 0 68px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  justify-content: flex-end;
+}

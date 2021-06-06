@@ -1,0 +1,24 @@
+{
+  "name": "FoundryVTT-dnd5e-ES-ravanno",
+  "title": "Translation: Spanish [D&D 5e] - @ravanno#1489",
+  "description": "IMPORTANTE: ACTIVAR MÓDULO | Agrega la traducción al español del sistema dnd5e para FoundryVTT (ampliado por @ravanno#1489).",
+  "version": "1.33.1",
+  "minimumCoreVersion" : "0.7.9",
+  "compatibleCoreVersion": "0.8.6",
+  "author": "Cosmo Corban#4840, @ravanno#1489",
+  "systems": ["dnd5e"],
+  "esmodules": [],
+  "scripts": [],
+  "styles": ["dnd5eES.css"],
+  "packs": [],
+    
+  "languages": [{
+  	"lang": "es",
+    "name": "Spanish",
+    "path": "es.json"
+  }],
+    
+  "url": "https://github.com/ravanno/foundryvtt-dnd5e-es-ravanno",
+  "manifest": "https://gitlab.com/carlosjrlu/foundryvtt-dnd5e-lang-es/-/raw/master/es/module.json",
+  "download": "https://github.com/ravanno/foundryvtt-dnd5e-es-ravanno/archive/refs/heads/main.zip"
+}
