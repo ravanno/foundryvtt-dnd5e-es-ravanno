@@ -19,6 +19,6 @@
   }],
     
   "url": "https://github.com/ravanno/foundryvtt-dnd5e-es-ravanno",
-  "manifest": "https://gitlab.com/carlosjrlu/foundryvtt-dnd5e-lang-es/-/raw/master/es/module.json",
+  "manifest": "https://raw.githubusercontent.com/ravanno/foundryvtt-dnd5e-es-ravanno/main/module.json",
   "download": "https://github.com/ravanno/foundryvtt-dnd5e-es-ravanno/archive/refs/heads/main.zip"
 }
